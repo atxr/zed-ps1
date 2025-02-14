@@ -1,0 +1,5 @@
+name = "Powershell"
+grammar = "powershell"
+path_suffixes = ["ps1", "psm"]
+line_comments = ["# "]
+tab_size = 2

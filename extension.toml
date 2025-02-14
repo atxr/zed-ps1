@@ -1,0 +1,11 @@
+id = "Powershell"
+name = "Powershell Tree-Sitter"
+version = "0.0.1"
+schema_version = 1
+authors = ["Alexandre Tullot <alexandre.tullot@protonmail.com>"]
+description = "Tree-Sitter integration of https://github.com/airbus-cert/tree-sitter-powershell"
+repository = "https://github.com/atxr/zed-ps1"
+
+[grammars.powershell]
+repository = "https://github.com/airbus-cert/tree-sitter-powershell"
+rev = "32fe49cc5d4a2d5a976dacafc0da16d98787866b"
